@@ -33,11 +33,5 @@ hs_err_pid*
 out
 gen
 .gitignore
-tensquare_base/src/test/
-tensquare_base/target/classes/com/tensquare/base/controller/BaseController.class
-tensquare_base/target/classes/com/tensquare/base/service/LabelService$1.class
-tensquare_base/target/generated-sources/
-tensquare_common/src/main/resources/
-tensquare_common/src/test/
-tensquare_common/target/generated-sources/
-tensquare_recruit/target/
+
+*target
